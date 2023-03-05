@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oshanda Banuka</h1>
 <h3 align="center">Exploring the intersection of technology and creativity through code</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124718605/222976148-b8f8ce00-b404-4509-a0e5-743beb046039.png">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124718605/222976148-b8f8ce00-b404-4509-a0e5-743beb046039.gif">
 
 
 
