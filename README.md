@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oshanda Banuka</h1>
 <h3 align="center">Exploring the intersection of technology and creativity through code</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124718605/222976148-b8f8ce00-b404-4509-a0e5-743beb046039.png">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshandab&label=Profile%20views&color=0e75b6&style=flat" alt="oshandab" /> </p>
 
 - 🌱 I’m currently learning **JAVA,Mysql**
