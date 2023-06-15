@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oshanda Banuka</h1>
 <h3 align="center">Exploring the intersection of technology and creativity through code</h3>
 
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/93699-coding">
+<img align="right" alt="coding" width="400" src="/home/oshanda/Downloads/93699-coding.gif">
 
 
 
